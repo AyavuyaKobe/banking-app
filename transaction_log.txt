@@ -13,3 +13,14 @@ Deposit of 2300.0 made. New balance: 2300.0
 Deposit of 24600.0 made. New balance: 24600.0
 Withdrawal of 600.0 made. New balance: 24000.0
 Deposit of 3.0 made. New balance: 3.0
+Deposit of 100.0 made. New balance: 100.0
+Deposit of 200.0 made. New balance: 200.0
+Deposit of 100.0 made. New balance: 100.0
+Deposit of 100.0 made. New balance: 100.0
+Deposit of 100.0 made. New balance: 100.0
+Deposit of 100.0 made. New balance: 100.0
+Withdrawal of 100.0 made. New balance: 0.0
+Deposit of 100.0 made. New balance: 100.0
+Withdrawal of 100.0 made. New balance: 0.0
+Deposit of 100.0 made. New balance: 100.0
+Withdrawal of 50.0 made. New balance: 50.0
